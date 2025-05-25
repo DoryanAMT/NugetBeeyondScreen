@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>NugetBeeyondScreen</Title>
-    <Description>Esto es una librería para BeeyondScreen.</Description>
+    <Description>Esto es una librería para BeeyondScreen en la versión net core 8 para AWS.</Description>
     <PackageTags>doryan, beeyondscreen, cine</PackageTags>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
 </Project>

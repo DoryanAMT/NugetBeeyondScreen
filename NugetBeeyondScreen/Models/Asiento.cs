@@ -19,6 +19,5 @@ namespace NugetBeeyondScreen.Models
         public string Fila { get; set; }
         [Column("DISPONIBLE")]
         public Boolean Disponible { get; set; }
-        
     }
 }
