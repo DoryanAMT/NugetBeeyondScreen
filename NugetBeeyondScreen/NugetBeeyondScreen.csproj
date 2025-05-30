@@ -8,7 +8,7 @@
     <Title>NugetBeeyondScreen</Title>
     <Description>Esto es una librería para BeeyondScreen en la versión net core 8 para AWS.</Description>
     <PackageTags>doryan, beeyondscreen, cine</PackageTags>
-    <Version>1.0.3</Version>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
 </Project>
